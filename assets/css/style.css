@@ -69,10 +69,10 @@
 
 
 :root{
-  --theme-color: #68ae40;
-  --secondary-color: #061569;
-  --text-color: #666666;
-  --title-color: #222222;
+  --theme-color: #1b5c8b;
+  --secondary-color: #7db73a;
+  --text-color: #062d48;
+  --title-color: #1b5c8b;
   --text-font: "Plus Jakarta Sans", sans-serif;
   --title-font: "Plus Jakarta Sans", sans-serif;
 }
