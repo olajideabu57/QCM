@@ -34,7 +34,7 @@
   padding: 17px 30px;
   border-left: solid;
   border-width: 5px;
-  border-color: #7A0101;
+  border-color: #061569;
   z-index: 1;
   transition: all 500ms ease;
 }
@@ -88,7 +88,7 @@
   height: 100%;
   left: 0px;
   top: 0px;
-  background: linear-gradient(0deg, #CE1810 0%, rgba(206, 24, 16, 0) 41.75%);
+  background: linear-gradient(0deg, #061569 0%, rgba(206, 24, 16, 0) 41.75%);
 }
 
 .service-sidebar .contact-widget .inner-box h4{
